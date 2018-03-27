@@ -1,0 +1,1137 @@
+fileFormatVersion: 2
+guid: 330356fa431c05b4ead3746e2cd7250f
+timeCreated: 1522105441
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: abatjour
+    100002: abatjour 1
+    100004: abatjour 2
+    100006: Andar_superior
+    100008: apoio_grelhador
+    100010: apoio_grelhador1
+    100012: apoio_grelhador2
+    100014: apoio_grelhador3
+    100016: Armario
+    100018: Armario1
+    100020: Armario2
+    100022: Armario3
+    100024: Armarios
+    100026: balcao
+    100028: balcao_do_meio
+    100030: balcao_normal
+    100032: Barbeque
+    100034: beiral
+    100036: beiral1
+    100038: cabo
+    100040: cabo 1
+    100042: cabo 2
+    100044: candeeiro
+    100046: candeeiro1
+    100048: candeeiro2
+    100050: candeiros
+    100052: Casa
+    100054: //RootNode
+    100056: Casas_exterior
+    100058: cave
+    100060: Chao
+    100062: chao
+    100064: coluna
+    100066: colunas
+    100068: colunas1
+    100070: Cozinha
+    100072: degrau
+    100074: degrau 1
+    100076: degrau1
+    100078: degrau10
+    100080: degrau11
+    100082: degrau12
+    100084: degrau13
+    100086: degrau14
+    100088: degrau15
+    100090: degrau2
+    100092: degrau3
+    100094: degrau4
+    100096: degrau5
+    100098: degrau6
+    100100: degrau7
+    100102: degrau8
+    100104: degrau9
+    100106: direita
+    100108: entrada
+    100110: escada
+    100112: Escada_para_baixo
+    100114: Escada_para_cima
+    100116: escadas
+    100118: esquerda
+    100120: Estrutura
+    100122: exaustor
+    100124: Exterior
+    100126: fogao
+    100128: frigorifico
+    100130: fundo
+    100132: fundo_casa_de_banho
+    100134: gaveta
+    100136: Grade
+    100138: grade
+    100140: grade_portao
+    100142: grade_portao_pequeno
+    100144: grelha
+    100146: grelha 1
+    100148: grelhador
+    100150: Guarda_escada
+    100152: guarda_escada
+    100154: guarda_escada1
+    100156: guarda_escada3
+    100158: guarda_escada4
+    100160: guarda_escada5
+    100162: janela
+    100164: janela 1
+    100166: janela_andar_de_cima
+    100168: janela_direita
+    100170: janela_direita 1
+    100172: janela_direita 2
+    100174: janela_direita 3
+    100176: janela_direita1
+    100178: janela_entrada
+    100180: janela_esquerda
+    100182: janela_esquerda 1
+    100184: janela_esquerda 2
+    100186: janela_pateo
+    100188: janela_quarto_criancas
+    100190: Janela_WC
+    100192: Janelao
+    100194: janelas_frene
+    100196: lavatorio
+    100198: lavatorio 1
+    100200: left1
+    100202: macaneta
+    100204: maquina_de_lavar
+    100206: Mesa_jantar
+    100208: mesinha_tv
+    100210: micro_ondas
+    100212: moldura
+    100214: moldura 1
+    100216: moldura 2
+    100218: moldura 3
+    100220: moldura 4
+    100222: moldura 5
+    100224: moldura 6
+    100226: moldura 7
+    100228: moldura1
+    100230: moldura2
+    100232: movel
+    100234: muro
+    100236: muro 1
+    100238: ombreira_porta
+    100240: parede
+    100242: parede1
+    100244: parede2
+    100246: parede_azulejos
+    100248: parede_azulejos2
+    100250: parede_casa_de_banho
+    100252: parede_direita
+    100254: parede_esquerda
+    100256: parede_fundo
+    100258: Paredes_externas
+    100260: Paredes_internas
+    100262: passpartout
+    100264: pCube18
+    100266: pCube19
+    100268: pCube20
+    100270: pCube21
+    100272: pCube22
+    100274: pCube23
+    100276: pCube24
+    100278: pCube43
+    100280: pCube44
+    100282: pCube45
+    100284: pCube48
+    100286: pCube48 1
+    100288: pCube48 2
+    100290: pCube48 3
+    100292: pCube55
+    100294: pCube58
+    100296: pCube59
+    100298: pCube8
+    100300: pCube8 1
+    100302: pCube8 2
+    100304: pCube8 3
+    100306: pinocos
+    100308: pinocos 1
+    100310: placa_fogao
+    100312: polySurface10
+    100314: polySurface2
+    100316: polySurface4
+    100318: polySurface6
+    100320: polySurface8
+    100322: polySurface9
+    100324: porta
+    100326: porta 1
+    100328: porta_exterior
+    100330: porta_exterior1
+    100332: porta_exterior2
+    100334: portao
+    100336: prate
+    100338: prate1
+    100340: prate2
+    100342: prate5
+    100344: prate6
+    100346: prateleira_grelhador
+    100348: prateleira_grelhador1
+    100350: prateleira_grelhador2
+    100352: prateleiras
+    100354: Quadro
+    100356: quadro1
+    100358: Sala
+    100360: sala
+    100362: separador_telhado
+    100364: separador_telhado1
+    100366: sofa
+    100368: suportes
+    100370: surfboard
+    100372: Tampo
+    100374: tampo
+    100376: tampo 1
+    100378: tampo 2
+    100380: tecto
+    100382: tecto 1
+    100384: telhado
+    100386: telhado 1
+    100388: telhado 2
+    100390: torneira
+    100392: torneira 1
+    100394: torneira1
+    100396: torneira2
+    100398: tv
+    100400: vidro
+    100402: vidro 1
+    100404: vidro 2
+    100406: vidro 3
+    100408: vidro 4
+    100410: Res_do_chao
+    100412: tampo1
+    400000: abatjour
+    400002: abatjour 1
+    400004: abatjour 2
+    400006: Andar_superior
+    400008: apoio_grelhador
+    400010: apoio_grelhador1
+    400012: apoio_grelhador2
+    400014: apoio_grelhador3
+    400016: Armario
+    400018: Armario1
+    400020: Armario2
+    400022: Armario3
+    400024: Armarios
+    400026: balcao
+    400028: balcao_do_meio
+    400030: balcao_normal
+    400032: Barbeque
+    400034: beiral
+    400036: beiral1
+    400038: cabo
+    400040: cabo 1
+    400042: cabo 2
+    400044: candeeiro
+    400046: candeeiro1
+    400048: candeeiro2
+    400050: candeiros
+    400052: Casa
+    400054: //RootNode
+    400056: Casas_exterior
+    400058: cave
+    400060: Chao
+    400062: chao
+    400064: coluna
+    400066: colunas
+    400068: colunas1
+    400070: Cozinha
+    400072: degrau
+    400074: degrau 1
+    400076: degrau1
+    400078: degrau10
+    400080: degrau11
+    400082: degrau12
+    400084: degrau13
+    400086: degrau14
+    400088: degrau15
+    400090: degrau2
+    400092: degrau3
+    400094: degrau4
+    400096: degrau5
+    400098: degrau6
+    400100: degrau7
+    400102: degrau8
+    400104: degrau9
+    400106: direita
+    400108: entrada
+    400110: escada
+    400112: Escada_para_baixo
+    400114: Escada_para_cima
+    400116: escadas
+    400118: esquerda
+    400120: Estrutura
+    400122: exaustor
+    400124: Exterior
+    400126: fogao
+    400128: frigorifico
+    400130: fundo
+    400132: fundo_casa_de_banho
+    400134: gaveta
+    400136: Grade
+    400138: grade
+    400140: grade_portao
+    400142: grade_portao_pequeno
+    400144: grelha
+    400146: grelha 1
+    400148: grelhador
+    400150: Guarda_escada
+    400152: guarda_escada
+    400154: guarda_escada1
+    400156: guarda_escada3
+    400158: guarda_escada4
+    400160: guarda_escada5
+    400162: janela
+    400164: janela 1
+    400166: janela_andar_de_cima
+    400168: janela_direita
+    400170: janela_direita 1
+    400172: janela_direita 2
+    400174: janela_direita 3
+    400176: janela_direita1
+    400178: janela_entrada
+    400180: janela_esquerda
+    400182: janela_esquerda 1
+    400184: janela_esquerda 2
+    400186: janela_pateo
+    400188: janela_quarto_criancas
+    400190: Janela_WC
+    400192: Janelao
+    400194: janelas_frene
+    400196: lavatorio
+    400198: lavatorio 1
+    400200: left1
+    400202: macaneta
+    400204: maquina_de_lavar
+    400206: Mesa_jantar
+    400208: mesinha_tv
+    400210: micro_ondas
+    400212: moldura
+    400214: moldura 1
+    400216: moldura 2
+    400218: moldura 3
+    400220: moldura 4
+    400222: moldura 5
+    400224: moldura 6
+    400226: moldura 7
+    400228: moldura1
+    400230: moldura2
+    400232: movel
+    400234: muro
+    400236: muro 1
+    400238: ombreira_porta
+    400240: parede
+    400242: parede1
+    400244: parede2
+    400246: parede_azulejos
+    400248: parede_azulejos2
+    400250: parede_casa_de_banho
+    400252: parede_direita
+    400254: parede_esquerda
+    400256: parede_fundo
+    400258: Paredes_externas
+    400260: Paredes_internas
+    400262: passpartout
+    400264: pCube18
+    400266: pCube19
+    400268: pCube20
+    400270: pCube21
+    400272: pCube22
+    400274: pCube23
+    400276: pCube24
+    400278: pCube43
+    400280: pCube44
+    400282: pCube45
+    400284: pCube48
+    400286: pCube48 1
+    400288: pCube48 2
+    400290: pCube48 3
+    400292: pCube55
+    400294: pCube58
+    400296: pCube59
+    400298: pCube8
+    400300: pCube8 1
+    400302: pCube8 2
+    400304: pCube8 3
+    400306: pinocos
+    400308: pinocos 1
+    400310: placa_fogao
+    400312: polySurface10
+    400314: polySurface2
+    400316: polySurface4
+    400318: polySurface6
+    400320: polySurface8
+    400322: polySurface9
+    400324: porta
+    400326: porta 1
+    400328: porta_exterior
+    400330: porta_exterior1
+    400332: porta_exterior2
+    400334: portao
+    400336: prate
+    400338: prate1
+    400340: prate2
+    400342: prate5
+    400344: prate6
+    400346: prateleira_grelhador
+    400348: prateleira_grelhador1
+    400350: prateleira_grelhador2
+    400352: prateleiras
+    400354: Quadro
+    400356: quadro1
+    400358: Sala
+    400360: sala
+    400362: separador_telhado
+    400364: separador_telhado1
+    400366: sofa
+    400368: suportes
+    400370: surfboard
+    400372: Tampo
+    400374: tampo
+    400376: tampo 1
+    400378: tampo 2
+    400380: tecto
+    400382: tecto 1
+    400384: telhado
+    400386: telhado 1
+    400388: telhado 2
+    400390: torneira
+    400392: torneira 1
+    400394: torneira1
+    400396: torneira2
+    400398: tv
+    400400: vidro
+    400402: vidro 1
+    400404: vidro 2
+    400406: vidro 3
+    400408: vidro 4
+    400410: Res_do_chao
+    400412: tampo1
+    2000000: left1
+    2100000: lambert1
+    2300000: abatjour
+    2300002: abatjour 1
+    2300004: abatjour 2
+    2300006: apoio_grelhador
+    2300008: apoio_grelhador1
+    2300010: apoio_grelhador2
+    2300012: apoio_grelhador3
+    2300014: Armario
+    2300016: Armario1
+    2300018: Armario2
+    2300020: Armario3
+    2300022: beiral
+    2300024: beiral1
+    2300026: cabo
+    2300028: cabo 1
+    2300030: cabo 2
+    2300032: cave
+    2300034: chao
+    2300036: coluna
+    2300038: colunas
+    2300040: colunas1
+    2300042: degrau
+    2300044: degrau 1
+    2300046: degrau1
+    2300048: degrau10
+    2300050: degrau11
+    2300052: degrau12
+    2300054: degrau13
+    2300056: degrau14
+    2300058: degrau15
+    2300060: degrau2
+    2300062: degrau3
+    2300064: degrau4
+    2300066: degrau5
+    2300068: degrau6
+    2300070: degrau7
+    2300072: degrau8
+    2300074: degrau9
+    2300076: direita
+    2300078: entrada
+    2300080: escada
+    2300082: escadas
+    2300084: esquerda
+    2300086: exaustor
+    2300088: frigorifico
+    2300090: fundo
+    2300092: fundo_casa_de_banho
+    2300094: gaveta
+    2300096: grade
+    2300098: grade_portao
+    2300100: grade_portao_pequeno
+    2300102: grelha
+    2300104: grelha 1
+    2300106: grelhador
+    2300108: guarda_escada
+    2300110: guarda_escada1
+    2300112: guarda_escada3
+    2300114: guarda_escada4
+    2300116: guarda_escada5
+    2300118: janela
+    2300120: janela 1
+    2300122: janela_direita
+    2300124: janela_direita 1
+    2300126: janela_direita 2
+    2300128: janela_direita1
+    2300130: janela_esquerda
+    2300132: janela_esquerda 1
+    2300134: lavatorio 1
+    2300136: macaneta
+    2300138: mesinha_tv
+    2300140: micro_ondas
+    2300142: moldura
+    2300144: moldura 1
+    2300146: moldura 2
+    2300148: moldura 3
+    2300150: moldura 4
+    2300152: moldura 5
+    2300154: moldura 6
+    2300156: moldura 7
+    2300158: moldura1
+    2300160: moldura2
+    2300162: movel
+    2300164: muro
+    2300166: muro 1
+    2300168: parede2
+    2300170: parede_azulejos
+    2300172: parede_azulejos2
+    2300174: parede_casa_de_banho
+    2300176: parede_esquerda
+    2300178: passpartout
+    2300180: pCube18
+    2300182: pCube19
+    2300184: pCube20
+    2300186: pCube21
+    2300188: pCube22
+    2300190: pCube23
+    2300192: pCube24
+    2300194: pCube43
+    2300196: pCube44
+    2300198: pCube45
+    2300200: pCube48
+    2300202: pCube48 1
+    2300204: pCube48 2
+    2300206: pCube48 3
+    2300208: pCube55
+    2300210: pCube58
+    2300212: pCube59
+    2300214: pCube8
+    2300216: pCube8 1
+    2300218: pCube8 2
+    2300220: pCube8 3
+    2300222: pinocos
+    2300224: pinocos 1
+    2300226: placa_fogao
+    2300228: polySurface10
+    2300230: polySurface2
+    2300232: polySurface4
+    2300234: polySurface6
+    2300236: polySurface8
+    2300238: polySurface9
+    2300240: porta 1
+    2300242: porta_exterior
+    2300244: porta_exterior1
+    2300246: porta_exterior2
+    2300248: portao
+    2300250: prate
+    2300252: prate1
+    2300254: prate2
+    2300256: prate5
+    2300258: prate6
+    2300260: prateleira_grelhador
+    2300262: prateleira_grelhador1
+    2300264: prateleira_grelhador2
+    2300266: quadro1
+    2300268: separador_telhado
+    2300270: separador_telhado1
+    2300272: sofa
+    2300274: suportes
+    2300276: surfboard
+    2300278: Tampo
+    2300280: tampo
+    2300282: tampo 1
+    2300284: tampo 2
+    2300286: tecto
+    2300288: tecto 1
+    2300290: telhado
+    2300292: telhado 1
+    2300294: telhado 2
+    2300296: torneira 1
+    2300298: torneira1
+    2300300: torneira2
+    2300302: tv
+    2300304: vidro
+    2300306: vidro 1
+    2300308: vidro 2
+    2300310: vidro 3
+    2300312: vidro 4
+    2300314: tampo1
+    3300000: abatjour
+    3300002: abatjour 1
+    3300004: abatjour 2
+    3300006: apoio_grelhador
+    3300008: apoio_grelhador1
+    3300010: apoio_grelhador2
+    3300012: apoio_grelhador3
+    3300014: Armario
+    3300016: Armario1
+    3300018: Armario2
+    3300020: Armario3
+    3300022: beiral
+    3300024: beiral1
+    3300026: cabo
+    3300028: cabo 1
+    3300030: cabo 2
+    3300032: cave
+    3300034: chao
+    3300036: coluna
+    3300038: colunas
+    3300040: colunas1
+    3300042: degrau
+    3300044: degrau 1
+    3300046: degrau1
+    3300048: degrau10
+    3300050: degrau11
+    3300052: degrau12
+    3300054: degrau13
+    3300056: degrau14
+    3300058: degrau15
+    3300060: degrau2
+    3300062: degrau3
+    3300064: degrau4
+    3300066: degrau5
+    3300068: degrau6
+    3300070: degrau7
+    3300072: degrau8
+    3300074: degrau9
+    3300076: direita
+    3300078: entrada
+    3300080: escada
+    3300082: escadas
+    3300084: esquerda
+    3300086: exaustor
+    3300088: frigorifico
+    3300090: fundo
+    3300092: fundo_casa_de_banho
+    3300094: gaveta
+    3300096: grade
+    3300098: grade_portao
+    3300100: grade_portao_pequeno
+    3300102: grelha
+    3300104: grelha 1
+    3300106: grelhador
+    3300108: guarda_escada
+    3300110: guarda_escada1
+    3300112: guarda_escada3
+    3300114: guarda_escada4
+    3300116: guarda_escada5
+    3300118: janela
+    3300120: janela 1
+    3300122: janela_direita
+    3300124: janela_direita 1
+    3300126: janela_direita 2
+    3300128: janela_direita1
+    3300130: janela_esquerda
+    3300132: janela_esquerda 1
+    3300134: lavatorio 1
+    3300136: macaneta
+    3300138: mesinha_tv
+    3300140: micro_ondas
+    3300142: moldura
+    3300144: moldura 1
+    3300146: moldura 2
+    3300148: moldura 3
+    3300150: moldura 4
+    3300152: moldura 5
+    3300154: moldura 6
+    3300156: moldura 7
+    3300158: moldura1
+    3300160: moldura2
+    3300162: movel
+    3300164: muro
+    3300166: muro 1
+    3300168: parede2
+    3300170: parede_azulejos
+    3300172: parede_azulejos2
+    3300174: parede_casa_de_banho
+    3300176: parede_esquerda
+    3300178: passpartout
+    3300180: pCube18
+    3300182: pCube19
+    3300184: pCube20
+    3300186: pCube21
+    3300188: pCube22
+    3300190: pCube23
+    3300192: pCube24
+    3300194: pCube43
+    3300196: pCube44
+    3300198: pCube45
+    3300200: pCube48
+    3300202: pCube48 1
+    3300204: pCube48 2
+    3300206: pCube48 3
+    3300208: pCube55
+    3300210: pCube58
+    3300212: pCube59
+    3300214: pCube8
+    3300216: pCube8 1
+    3300218: pCube8 2
+    3300220: pCube8 3
+    3300222: pinocos
+    3300224: pinocos 1
+    3300226: placa_fogao
+    3300228: polySurface10
+    3300230: polySurface2
+    3300232: polySurface4
+    3300234: polySurface6
+    3300236: polySurface8
+    3300238: polySurface9
+    3300240: porta 1
+    3300242: porta_exterior
+    3300244: porta_exterior1
+    3300246: porta_exterior2
+    3300248: portao
+    3300250: prate
+    3300252: prate1
+    3300254: prate2
+    3300256: prate5
+    3300258: prate6
+    3300260: prateleira_grelhador
+    3300262: prateleira_grelhador1
+    3300264: prateleira_grelhador2
+    3300266: quadro1
+    3300268: separador_telhado
+    3300270: separador_telhado1
+    3300272: sofa
+    3300274: suportes
+    3300276: surfboard
+    3300278: Tampo
+    3300280: tampo
+    3300282: tampo 1
+    3300284: tampo 2
+    3300286: tecto
+    3300288: tecto 1
+    3300290: telhado
+    3300292: telhado 1
+    3300294: telhado 2
+    3300296: torneira 1
+    3300298: torneira1
+    3300300: torneira2
+    3300302: tv
+    3300304: vidro
+    3300306: vidro 1
+    3300308: vidro 2
+    3300310: vidro 3
+    3300312: vidro 4
+    3300314: tampo1
+    4300000: degrau
+    4300002: degrau1
+    4300004: degrau2
+    4300006: degrau3
+    4300008: degrau4
+    4300010: degrau5
+    4300012: degrau6
+    4300014: guarda_escada3
+    4300016: guarda_escada
+    4300018: guarda_escada1
+    4300020: guarda_escada4
+    4300022: guarda_escada5
+    4300024: tampo
+    4300026: degrau
+    4300028: degrau7
+    4300030: degrau8
+    4300032: degrau9
+    4300034: degrau10
+    4300036: degrau11
+    4300038: degrau12
+    4300040: degrau13
+    4300042: degrau14
+    4300044: degrau15
+    4300046: pCube24
+    4300048: pCube21
+    4300050: pCube20
+    4300052: pCube19
+    4300054: pCube22
+    4300056: pCube18
+    4300058: pCube23
+    4300060: pCube45
+    4300062: pCube44
+    4300064: pCube43
+    4300066: exaustor
+    4300068: frigorifico
+    4300070: tampo
+    4300072: movel
+    4300074: lavatorio
+    4300076: Armario
+    4300078: Armario1
+    4300080: Armario2
+    4300082: prate5
+    4300084: micro_ondas
+    4300086: prate2
+    4300088: prate1
+    4300090: prate
+    4300092: prate6
+    4300094: pCube8
+    4300096: pCube48
+    4300098: pCube8
+    4300100: pCube48
+    4300102: pCube8
+    4300104: pCube48
+    4300106: placa_fogao
+    4300108: pCube8
+    4300110: pCube48
+    4300112: torneira2
+    4300114: torneira1
+    4300116: torneira
+    4300118: Tampo
+    4300120: Armario3
+    4300122: gaveta
+    4300124: abatjour
+    4300126: cabo
+    4300128: cabo
+    4300130: abatjour
+    4300132: abatjour
+    4300134: cabo
+    4300136: parede_azulejos
+    4300138: parede_azulejos2
+    4300140: moldura
+    4300142: passpartout
+    4300144: quadro1
+    4300146: polySurface4
+    4300148: polySurface2
+    4300150: polySurface6
+    4300152: polySurface8
+    4300154: polySurface9
+    4300156: polySurface10
+    4300158: cave
+    4300160: vidro
+    4300162: moldura
+    4300164: tecto
+    4300166: macaneta
+    4300168: porta
+    4300170: janela_direita
+    4300172: janela_direita1
+    4300174: janela_direita
+    4300176: janela_esquerda
+    4300178: janela_direita
+    4300180: janela_esquerda
+    4300182: moldura
+    4300184: vidro
+    4300186: vidro
+    4300188: moldura
+    4300190: vidro
+    4300192: moldura
+    4300194: moldura
+    4300196: vidro
+    4300198: telhado
+    4300200: suportes
+    4300202: parede_casa_de_banho
+    4300204: direita
+    4300206: entrada
+    4300208: esquerda
+    4300210: fundo
+    4300212: fundo_casa_de_banho
+    4300214: sofa
+    4300216: mesinha_tv
+    4300218: tv
+    4300220: tampo
+    4300222: surfboard
+    4300224: escada
+    4300226: chao
+    4300228: parede_esquerda
+    4300230: coluna
+    4300232: portao
+    4300234: grade_portao_pequeno
+    4300236: grade_portao
+    4300238: telhado
+    4300240: separador_telhado1
+    4300242: separador_telhado
+    4300244: prateleira_grelhador2
+    4300246: grelhador
+    4300248: apoio_grelhador
+    4300250: apoio_grelhador1
+    4300252: apoio_grelhador2
+    4300254: apoio_grelhador3
+    4300256: prateleira_grelhador
+    4300258: prateleira_grelhador1
+    4300260: moldura
+    4300262: janela
+    4300264: porta_exterior1
+    4300266: porta_exterior
+    4300268: grade
+    4300270: escadas
+    4300272: porta_exterior2
+    4300274: muro
+    4300276: colunas
+    4300278: pinocos
+    4300280: grelha
+    4300282: colunas1
+    4300284: pinocos
+    4300286: muro
+    4300288: grelha
+    4300290: moldura2
+    4300292: parede2
+    4300294: moldura1
+    4300296: janela
+    4300298: moldura
+    4300300: telhado
+    4300302: pCube59
+    4300304: pCube58
+    4300306: pCube55
+    4300308: beiral
+    4300310: tecto
+    4300312: beiral1
+    4300314: tampo1
+    6400000: abatjour
+    6400002: abatjour 1
+    6400004: abatjour 2
+    6400006: apoio_grelhador
+    6400008: apoio_grelhador1
+    6400010: apoio_grelhador2
+    6400012: apoio_grelhador3
+    6400014: Armario
+    6400016: Armario1
+    6400018: Armario2
+    6400020: Armario3
+    6400022: beiral
+    6400024: beiral1
+    6400026: cabo
+    6400028: cabo 1
+    6400030: cabo 2
+    6400032: cave
+    6400034: chao
+    6400036: coluna
+    6400038: colunas
+    6400040: colunas1
+    6400042: degrau
+    6400044: degrau 1
+    6400046: degrau1
+    6400048: degrau10
+    6400050: degrau11
+    6400052: degrau12
+    6400054: degrau13
+    6400056: degrau14
+    6400058: degrau15
+    6400060: degrau2
+    6400062: degrau3
+    6400064: degrau4
+    6400066: degrau5
+    6400068: degrau6
+    6400070: degrau7
+    6400072: degrau8
+    6400074: degrau9
+    6400076: direita
+    6400078: entrada
+    6400080: escada
+    6400082: escadas
+    6400084: esquerda
+    6400086: exaustor
+    6400088: frigorifico
+    6400090: fundo
+    6400092: fundo_casa_de_banho
+    6400094: gaveta
+    6400096: grade
+    6400098: grade_portao
+    6400100: grade_portao_pequeno
+    6400102: grelha
+    6400104: grelha 1
+    6400106: grelhador
+    6400108: guarda_escada
+    6400110: guarda_escada1
+    6400112: guarda_escada3
+    6400114: guarda_escada4
+    6400116: guarda_escada5
+    6400118: janela
+    6400120: janela 1
+    6400122: janela_direita
+    6400124: janela_direita 1
+    6400126: janela_direita 2
+    6400128: janela_direita1
+    6400130: janela_esquerda
+    6400132: janela_esquerda 1
+    6400134: lavatorio 1
+    6400136: macaneta
+    6400138: mesinha_tv
+    6400140: micro_ondas
+    6400142: moldura
+    6400144: moldura 1
+    6400146: moldura 2
+    6400148: moldura 3
+    6400150: moldura 4
+    6400152: moldura 5
+    6400154: moldura 6
+    6400156: moldura 7
+    6400158: moldura1
+    6400160: moldura2
+    6400162: movel
+    6400164: muro
+    6400166: muro 1
+    6400168: parede2
+    6400170: parede_azulejos
+    6400172: parede_azulejos2
+    6400174: parede_casa_de_banho
+    6400176: parede_esquerda
+    6400178: passpartout
+    6400180: pCube18
+    6400182: pCube19
+    6400184: pCube20
+    6400186: pCube21
+    6400188: pCube22
+    6400190: pCube23
+    6400192: pCube24
+    6400194: pCube43
+    6400196: pCube44
+    6400198: pCube45
+    6400200: pCube48
+    6400202: pCube48 1
+    6400204: pCube48 2
+    6400206: pCube48 3
+    6400208: pCube55
+    6400210: pCube58
+    6400212: pCube59
+    6400214: pCube8
+    6400216: pCube8 1
+    6400218: pCube8 2
+    6400220: pCube8 3
+    6400222: pinocos
+    6400224: pinocos 1
+    6400226: placa_fogao
+    6400228: polySurface10
+    6400230: polySurface2
+    6400232: polySurface4
+    6400234: polySurface6
+    6400236: polySurface8
+    6400238: polySurface9
+    6400240: porta 1
+    6400242: porta_exterior
+    6400244: porta_exterior1
+    6400246: porta_exterior2
+    6400248: portao
+    6400250: prate
+    6400252: prate1
+    6400254: prate2
+    6400256: prate5
+    6400258: prate6
+    6400260: prateleira_grelhador
+    6400262: prateleira_grelhador1
+    6400264: prateleira_grelhador2
+    6400266: quadro1
+    6400268: separador_telhado
+    6400270: separador_telhado1
+    6400272: sofa
+    6400274: suportes
+    6400276: surfboard
+    6400278: Tampo
+    6400280: tampo
+    6400282: tampo 1
+    6400284: tampo 2
+    6400286: tecto
+    6400288: tecto 1
+    6400290: telhado
+    6400292: telhado 1
+    6400294: telhado 2
+    6400296: torneira 1
+    6400298: torneira1
+    6400300: torneira2
+    6400302: tv
+    6400304: vidro
+    6400306: vidro 1
+    6400308: vidro 2
+    6400310: vidro 3
+    6400312: vidro 4
+    6400314: tampo1
+    7400000: Take 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
